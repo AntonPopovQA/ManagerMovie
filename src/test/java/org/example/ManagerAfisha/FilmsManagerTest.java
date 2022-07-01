@@ -1,3 +1,4 @@
+package org.example.ManagerAfisha;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

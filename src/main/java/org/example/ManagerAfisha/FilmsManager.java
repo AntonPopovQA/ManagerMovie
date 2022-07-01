@@ -1,3 +1,4 @@
+package org.example.ManagerAfisha;
 public class FilmsManager {
     private String[] movies = new String[0];
     private int limit;
